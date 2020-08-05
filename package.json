@@ -6,14 +6,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/xiaohuihui1314/modules.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/xiaohuihui1314/modules/issues"
-  },
   "homepage": "https://github.com/xiaohuihui1314/modules#readme"
 }
