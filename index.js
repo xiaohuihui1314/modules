@@ -1,3 +1,3 @@
 export const fn1  = (a)=>{
-    return a 
+    return a + new Date()
 }
